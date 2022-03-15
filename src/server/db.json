@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "D6DNdWnHI",
+      "name": "Ovidiu Povara",
+      "company": "RoundAssist",
+      "email": "Ovidiu.Povara@gmail.com",
+      "title": "programmer",
+      "mobile": "112",
+      "photo": "https://media-exp1.licdn.com/dms/image/C4E03AQG1ogdvdMAXtg/profile-displayphoto-shrink_800_800/0/1645786841804?e=1652918400&v=beta&t=wz8NecdKek30a3lnivbuQx4dbkbJe_rBWUDrwNl6j7I",
+      "groupId": "3"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    }
+  ]
+}
