@@ -9,6 +9,26 @@
       "mobile": "112",
       "photo": "https://media-exp1.licdn.com/dms/image/C4E03AQG1ogdvdMAXtg/profile-displayphoto-shrink_800_800/0/1645786841804?e=1652918400&v=beta&t=wz8NecdKek30a3lnivbuQx4dbkbJe_rBWUDrwNl6j7I",
       "groupId": "3"
+    },
+    {
+      "id": "D6DNdWnHI",
+      "name": "Flaviu Cismas",
+      "company": "RoundAssist",
+      "email": "flaviu@gmail.com",
+      "title": "programmer",
+      "mobile": "112",
+      "photo": "https://media-exp1.licdn.com/dms/image/D4E35AQHZ3BVMjbdVnQ/profile-framedphoto-shrink_200_200/0/1638446691695?e=1647518400&v=beta&t=0T1_Bj9iFZkJm22WZ9ahEhrPkVSBJVw0KPcjY5odaE0",
+      "groupId": "3"
+    },
+    {
+      "id": "Sergiu Giurgiu",
+      "name": "Ovidiu Povara",
+      "company": "RoundAssist",
+      "email": "sergiug@gmail.com",
+      "title": "programmer",
+      "mobile": "112",
+      "photo": "https://media-exp1.licdn.com/dms/image/C4E03AQGyVunV1kCvoQ/profile-displayphoto-shrink_200_200/0/1630327931604?e=1652918400&v=beta&t=gpEBmVRwwi3Oi8xS4gAKJNDOLaFdH_56O_iXusn9kwA",
+      "groupId": "3"
     }
   ],
   "groups": [
