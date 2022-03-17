@@ -15,6 +15,10 @@ export class ContactManagerComponent implements OnInit {
   constructor(private contactService: ContactService) {}
 
   ngOnInit(): void {
+    this.getAllContactsFromServer();
+  }
+
+  public getAllContactsFromServer() {
     this.loading = true;
     this.contactService.getAllContacts().subscribe(
       (data: IContact[]) => {
@@ -27,4 +31,17 @@ export class ContactManagerComponent implements OnInit {
       }
     );
   }
+
+  // public clickDeleteContact(contactId: string) {
+  //   if (contactId) {
+  //     this.contactService.deleteContact(contactId).subscribe(
+  //       (data: {}) => {
+  //         this.getAllContactsFromServer();
+  //       },
+  //       (error) => {
+  //         this.errorMessage = error;
+  //       }
+  //     );
+  //   }
+  // }
 }

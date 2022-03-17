@@ -23,7 +23,7 @@ export class ContactService {
   }
 
   //Get Single Contact
-  public getContact(contactId: IContact): Observable<IContact> {
+  public getContact(contactId: IContact | string): Observable<IContact> {
     let dataURL: string = `${this.serverUrl}/contacts/${contactId}`;
     return this.httpClient
       .get<IContact>(dataURL)
@@ -41,7 +41,7 @@ export class ContactService {
   //update contact
   public updateContact(
     contact: IContact,
-    contactId: IContact
+    contactId: IContact | string
   ): Observable<IContact> {
     let dataURL: string = `${this.serverUrl}/contacts/${contactId}`;
     return this.httpClient
