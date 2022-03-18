@@ -32,16 +32,16 @@ export class ContactManagerComponent implements OnInit {
     );
   }
 
-  // public clickDeleteContact(contactId: string) {
-  //   if (contactId) {
-  //     this.contactService.deleteContact(contactId).subscribe(
-  //       (data: {}) => {
-  //         this.getAllContactsFromServer();
-  //       },
-  //       (error) => {
-  //         this.errorMessage = error;
-  //       }
-  //     );
-  //   }
-  // }
+  public clickDeleteContact(contactId: string | undefined, contact: IContact) {
+    if (contactId) {
+      this.contactService.deleteContact(contactId, contact).subscribe(
+        (data: {}) => {
+          this.getAllContactsFromServer();
+        },
+        (error) => {
+          this.errorMessage = error;
+        }
+      );
+    }
+  }
 }

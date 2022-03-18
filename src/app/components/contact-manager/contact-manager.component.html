@@ -94,7 +94,10 @@
               >
                 <i class="fa fa-pen"></i>
               </a>
-              <button class="btn btn-danger my-1">
+              <button
+                class="btn btn-danger my-1"
+                (click)="clickDeleteContact(contact.id, contact)"
+              >
                 <i class="fa fa-trash-alt"></i>
               </button>
             </div>

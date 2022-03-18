@@ -50,7 +50,7 @@ export class ContactService {
   }
 
   //Delete contacts
-  public deleteContact(contact: IContact, contactId: string): Observable<{}> {
+  public deleteContact(contactId: string, contact: IContact): Observable<{}> {
     let dataURL: string = `${this.serverUrl}/contacts/${contactId}`;
     return this.httpClient
       .delete<{}>(dataURL)

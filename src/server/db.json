@@ -11,16 +11,6 @@
       "groupId": "3"
     },
     {
-      "id": "flaviu cismas",
-      "name": "Flaviu Cismas",
-      "company": "RoundAssist",
-      "email": "flaviu@gmail.com",
-      "title": "programmer",
-      "mobile": "112",
-      "photo": "https://media-exp1.licdn.com/dms/image/D4E35AQHZ3BVMjbdVnQ/profile-framedphoto-shrink_200_200/0/1638446691695?e=1647518400&v=beta&t=0T1_Bj9iFZkJm22WZ9ahEhrPkVSBJVw0KPcjY5odaE0",
-      "groupId": "3"
-    },
-    {
       "id": "Sergiu Giurgiu",
       "name": "Ovidiu Povara",
       "company": "RoundAssist",
@@ -29,26 +19,6 @@
       "mobile": "112",
       "photo": "https://media-exp1.licdn.com/dms/image/C4E03AQGyVunV1kCvoQ/profile-displayphoto-shrink_200_200/0/1630327931604?e=1652918400&v=beta&t=gpEBmVRwwi3Oi8xS4gAKJNDOLaFdH_56O_iXusn9kwA",
       "groupId": "3"
-    },
-    {
-      "name": "ana",
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNILbZ5qoSKNReFCNhJBl8uLn1gBAy-2UYzw&usqp=CAU",
-      "email": "ana@gmail.com",
-      "mobile": "+40758168000",
-      "company": "Pornhub",
-      "title": "Actor",
-      "groupId": "2",
-      "id": "sKhja9U"
-    },
-    {
-      "name": "bebe",
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE3LXFBTV9BlAQtHdRo1KHB-b1yIfTgFjzJw&usqp=CAU",
-      "email": "bebe@gmail.com",
-      "mobile": "+40758168342",
-      "company": "ra",
-      "title": "sexy",
-      "groupId": "1",
-      "id": "dp5Ke3L"
     }
   ],
   "groups": [
