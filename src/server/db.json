@@ -12,13 +12,32 @@
     },
     {
       "id": "Sergiu Giurgiu",
-      "name": "Ovidiu Povara",
+      "name": "Sergiu Giurgiu",
       "company": "RoundAssist",
       "email": "sergiug@gmail.com",
       "title": "programmer",
       "mobile": "112",
       "photo": "https://media-exp1.licdn.com/dms/image/C4E03AQGyVunV1kCvoQ/profile-displayphoto-shrink_200_200/0/1630327931604?e=1652918400&v=beta&t=gpEBmVRwwi3Oi8xS4gAKJNDOLaFdH_56O_iXusn9kwA",
       "groupId": "3"
+    },
+    {
+      "name": "Cismas Flaviu",
+      "email": "diablo201888@gmail.com",
+      "mobile": "+40758168342",
+      "company": "RoundAssist",
+      "photo": "https://scontent.ftsr1-2.fna.fbcdn.net/v/t1.6435-9/73100602_3140084899399089_6743809214109450240_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=SlWwhDBfm7UAX-Vhl7H&tn=1kil0znndfHhbwEx&_nc_ht=scontent.ftsr1-2.fna&oh=00_AT-kdrbWt74_BtHI7azR-1ICS_hEa21dAqDPwnRmscq3ew&oe=62653BF7",
+      "id": "XeG5eiD",
+      "title": "junior JS developer",
+      "groupId": "2"
+    },
+    {
+      "name": "Andrei Neagoie",
+      "photo": "https://images.ctfassets.net/aq13lwl6616q/5EfCKWR11fCkS30aM4h3tP/3fc7c3da875e802a63b44ad177fcaa2c/andrei.png",
+      "email": "andrei@gmail.com",
+      "mobile": "+40758168322",
+      "company": "ZTM",
+      "title": "CEO",
+      "id": "8ptwhFm"
     }
   ],
   "groups": [
