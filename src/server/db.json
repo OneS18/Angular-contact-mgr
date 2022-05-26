@@ -6,8 +6,8 @@
       "company": "RoundAssist",
       "email": "Ovidiu.Povara18@gmail.com",
       "title": "senior programmer",
-      "mobile": "112",
-      "photo": "https://media-exp1.licdn.com/dms/image/C4E03AQG1ogdvdMAXtg/profile-displayphoto-shrink_800_800/0/1645786841804?e=1652918400&v=beta&t=wz8NecdKek30a3lnivbuQx4dbkbJe_rBWUDrwNl6j7I",
+      "mobile": "000000000",
+      "photo": "https://scontent.ftgm1-1.fna.fbcdn.net/v/t1.6435-9/35284241_1052089944944557_8203107679585959936_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=174925&_nc_ohc=JX7oKmiBsHUAX-vRGHd&tn=1TIcsNcL6LP--ZcY&_nc_ht=scontent.ftgm1-1.fna&oh=00_AT_VVNbTSjceVccgxbWX0Emq4EptA0u5downqaRu72JwGA&oe=62B52B9C",
       "groupId": "3"
     },
     {
@@ -16,16 +16,16 @@
       "company": "RoundAssist",
       "email": "sergiug@gmail.com",
       "title": "programmer",
-      "mobile": "112",
-      "photo": "https://media-exp1.licdn.com/dms/image/C4E03AQGyVunV1kCvoQ/profile-displayphoto-shrink_200_200/0/1630327931604?e=1652918400&v=beta&t=gpEBmVRwwi3Oi8xS4gAKJNDOLaFdH_56O_iXusn9kwA",
+      "mobile": "0000000",
+      "photo": "https://scontent.ftgm1-1.fna.fbcdn.net/v/t31.18172-8/20121622_1605865962817747_494159728657358194_o.jpg?_nc_cat=100&ccb=1-7&_nc_sid=174925&_nc_ohc=Xh1lb_5PpVgAX-XhAh2&_nc_ht=scontent.ftgm1-1.fna&oh=00_AT8ZpBzavuaUrnuc8R12_ozXVOtOtQ0dI0VbhEw0laRVFQ&oe=62B628E0",
       "groupId": "3"
     },
     {
       "name": "Cismas Flaviu",
       "email": "diablo201888@gmail.com",
-      "mobile": "+40758168342",
+      "mobile": "+40758168000",
       "company": "RoundAssist",
-      "photo": "https://scontent.ftsr1-2.fna.fbcdn.net/v/t1.6435-9/73100602_3140084899399089_6743809214109450240_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=SlWwhDBfm7UAX-Vhl7H&tn=1kil0znndfHhbwEx&_nc_ht=scontent.ftsr1-2.fna&oh=00_AT-kdrbWt74_BtHI7azR-1ICS_hEa21dAqDPwnRmscq3ew&oe=62653BF7",
+      "photo": "https://scontent.ftgm1-1.fna.fbcdn.net/v/t1.6435-9/73100602_3140084899399089_6743809214109450240_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=oCxwsIlXaOwAX-HhMUa&_nc_ht=scontent.ftgm1-1.fna&oh=00_AT-DBRFE6MaT9MC62Vz-c9NJp-7zqxB7R2R4fnScl3jSOg&oe=62B455F7",
       "id": "XeG5eiD",
       "title": "junior JS developer",
       "groupId": "2"
@@ -38,6 +38,15 @@
       "company": "ZTM",
       "title": "CEO",
       "id": "8ptwhFm"
+    },
+    {
+      "name": "Trif Sergiu",
+      "photo": "https://scontent.ftgm1-1.fna.fbcdn.net/v/t1.6435-9/60062870_165093667847960_5889035714896592896_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_ohc=vXIa6x-DAPoAX-Bst5A&_nc_ht=scontent.ftgm1-1.fna&oh=00_AT8cfW-tCit54_616Gy__LzYo7gkGF566m_aR7yxlImhxg&oe=62B344C8",
+      "email": "trifsergiu@gmail.com",
+      "mobile": "+4075816999",
+      "company": "none",
+      "title": "none",
+      "id": "8ptwhFmm"
     }
   ],
   "groups": [
